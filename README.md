@@ -1,2 +1,2 @@
 # TextRAP
-There was an error committing your changes: A file with the same name already exists. Please choose a different name and try again.
+The code and results will be uploaded after the paper is accepted.
